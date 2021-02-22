@@ -2,13 +2,15 @@
 
 Omer here! I'm a Frontend and Mobile Application Developer.
 
-<img src="https://github.com/ofkarakus/ofkarakus/blob/main/react.gif" alt="react" width=200 height=200 align="right">
+<img src="https://github.com/ofkarakus/ofkarakus/blob/master/react.gif" alt="react" width=200 height=200 align="right">
 
 ### What I'm using? 🛠
 
 I prefer React & React Native for frontend and mobile application development, Node.js & Django for backend development. <br/> If you want to check out my stack, you can find more at tech stack badge on below.
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ofkarakus/my-stack)
+<a href="https://stackshare.io/ofkarakus/my-stack" target="_blank">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/ofkarakus/my-stack">
+</a>
 
 - 🔭 I’m currently working on frontend development. (JavaScript | React)
 - 🌱 I've been learning backend development for a while. (Node.js | MongoDB | Django)
@@ -34,5 +36,4 @@ You may find some experimental projects on my repos, feel free to contribute or 
 
 ### 📈 Statistics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ofkarakus" alt="ofkarakus" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=ofkarakus&show_icons=true&theme=tokyonight" align='left' width="40%">
