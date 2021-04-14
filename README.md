@@ -28,10 +28,3 @@ You may find some experimental projects on my repos, feel free to contribute or 
 <a href="https://medium.com/@omerfarukkarakus01" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@omerfarukkarakus01">
 </a>
-
-</br>
-
-
-### 📈 Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=ofkarakus&show_icons=true&theme=tokyonight" align='left' width="55%">
