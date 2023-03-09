@@ -10,8 +10,8 @@ I prefer React & React Native for frontend and mobile application development, N
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ofkarakus/my-stack)
 
-- 🔭 I’m currently working on frontend development. (JavaScript | React)
-- 🌱 I've been learning backend development for a while. (Node.js | MongoDB | Django)
+- 🔭 I’m currently working on frontend development. (TypeScript | React)
+- 🌱 I've been learning backend development for a while. (Node.js | PostgreSQL)
 - 💬 Ask me about anything that you want to learn.
 
 You may find some experimental projects on my repos, feel free to contribute or using them. Knowledge is power and it should spread across the world! 👯💪
